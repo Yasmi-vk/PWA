@@ -3,7 +3,8 @@ var cacheFiles = [
     'index.html',
     'product,js',
     'petstore.webmanifest',
-    'image/stich pic.jpg'
+    'stich%20Pic.jpg',
+    'icon-store-512.png'
 ]
 self.addEventListener('install', (e) => {
     console.log('[Service Worker] Install');
