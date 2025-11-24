@@ -1,0 +1,10 @@
+{
+    "name": "my-fun-project",
+    "author": "Yashmi Koticha",
+    "private": true,
+    "version": "0.7.0",
+    "dependencies": {
+        "lodash": "^4.17.21",
+        "mustache": "^4.2.0"
+    }
+}
